@@ -1,0 +1,16 @@
+.emoji-card {
+  background-color: #ffffff33;
+  list-style-type: none;
+  height: 230px;
+  width: 230px;
+  border-radius: 10px;
+  border: 2px solid #ffffff30;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-img {
+  height: 200px;
+  width: 200px;
+  border: 1px solid white;
+}
